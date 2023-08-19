@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* footer */
+footer{
+    background-color: rgb(63, 132, 98);
+}
+.footer-list>li>a{
+    color: rgb(192, 219, 194)!important;
+}
+.logo-footer{
+    height: 80px;
+}
+.icons>svg{
+    margin-right: 5px;
+}

@@ -1,0 +1,71 @@
+.main-box{
+    width: 100%;
+    height: 100%;
+    margin-top: 5%;
+    background-color: rgb(255, 255, 255, 0.9);
+}
+.main-content{
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+}
+.main-content>h5{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(57, 57, 113);
+} 
+.board{
+    display: inline-block;
+    width: 100%;
+    background-color: white;
+    margin: 0 auto;
+}
+.board-form{
+    margin: 5%;
+}
+.board-form span { 
+    display: inline-block; 
+}
+.board-form .col1 { 
+    width: 15%; 
+    float: left; 
+}
+.board-form .col2 { 
+    width: 85%; 
+    float: left; 
+}
+.board-form li { 
+    height: 50px; 
+}
+.board-form input { 
+    width: 100%; 
+}
+.board-form .area { 
+    height: 155px; 
+}
+.board-form textarea { 
+    width: 100%; 
+    height: 130px; 
+}
+.board-form .email input { 
+    width: 150px; 
+}
+.buttons { 
+    text-align: right; 
+    margin: 5% 5% 0 0; 
+}
+.buttons li { 
+    display: inline; 
+}
+.buttons button{
+    width: 100px!important;
+    font-size: 18px!important;
+}
+.food-img{
+	width: 500px;
+	height: 500px;
+}
+.food-img img{
+	width: 100%;
+	height: 100%;
+}
